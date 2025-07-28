@@ -4,10 +4,9 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "npm install && vite",
+    "dev": "vite",
     "build": "vite build",
-    "lint": "npm install && eslint .",
-    "preview": "npm install && vite preview"
+    "preview": "vite preview"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.10.0",
